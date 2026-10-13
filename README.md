@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Davide Passariello 👋
 
-<!--
-**davidepassariello/davidepassariello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc student in Digital Humanities in Naples, Italy.
 
-Here are some ideas to get you started:
+I'm interested in cybersecurity, Python, digital technologies, and the intersection between technology and the humanities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Interests
+
+- **Programming:** Python (beginner level)
+- **Cybersecurity:** Authentication, security awareness, and cybersecurity fundamentals
+- **Data:** SQL, MySQL, and digital data management
+- **Digital Humanities:** Digital archives, cultural heritage, and interactive technologies
+
+## 🚀 Featured Projects
+
+### Multi-Factor Authentication Demo
+An educational project exploring two-factor authentication using Python, pyotp, and MySQL.
+
+### Digital Humanities Project
+A project focused on digital data management or the analysis of cultural and linguistic data.
+
+### Cybersecurity Awareness Prototype
+A scenario-based learning project focused on everyday cybersecurity risks in professional environments.  
+*In development.*
+
+## 📚 Currently Learning
+
+- Python programming
+- Cybersecurity concepts and practical tools
+- Digital methods for humanities research
+
+## 📫 Connect with me
+
+- [LinkedIn](INSERISCI-QUI-IL-TUO-LINK)
+
+---
+
+*This profile documents my learning journey and selected academic projects.*
