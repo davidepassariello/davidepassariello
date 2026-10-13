@@ -2,7 +2,7 @@
 
 🎓 MSc student in Digital Humanities in Naples, Italy.
 
-I'm interested in cybersecurity, Python, digital technologies, and the intersection between technology and the humanities.
+I'm interested in AI, Python, cybersecurity, and digital technologies for cultural heritage.
 
 ## 🔧 Technical Interests
 
@@ -31,7 +31,7 @@ A scenario-based learning project focused on everyday cybersecurity risks in pro
 
 ## 📫 Connect with me
 
-- [LinkedIn](INSERISCI-QUI-IL-TUO-LINK)
+- [LinkedIn](linkedin.com/in/davidepassariello)
 
 ---
 
