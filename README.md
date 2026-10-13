@@ -29,10 +29,6 @@ A scenario-based learning project focused on everyday cybersecurity risks in pro
 - Cybersecurity concepts and practical tools
 - Digital methods for humanities research
 
-## 📫 Connect with me
-
-- [LinkedIn](www.linkedin.com/in/davidepassariello)
-
 ---
 
 *This profile documents my learning journey and selected academic projects.*
