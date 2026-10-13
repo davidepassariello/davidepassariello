@@ -31,7 +31,7 @@ A scenario-based learning project focused on everyday cybersecurity risks in pro
 
 ## 📫 Connect with me
 
-- [LinkedIn] linkedin.com/in/davidepassariello
+- [LinkedIn](www.linkedin.com/in/davidepassariello)
 
 ---
 
